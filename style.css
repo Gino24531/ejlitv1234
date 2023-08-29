@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+#nav{
+    position: fixed; 
+}
+
+.black{
+    background: #555555;
+}
+
+.logo{
+    width: 100px;
+    height: 100px;
+}
+
+.rreshti{
+    width: 100%;
+    min-width: 40vh;
+}
+
+.left{
+    width: 50%;
+    height: 100%;
+    float: left;
+}
+
+.foto{
+    width: 100%;
+}
+
+.right{
+    width: 50%;
+    height: 100%;
+    float: left;
+}
+
+.mire{
+    text-align: center;
+    font-size: 50px;
+    padding-top: 150px;
+}
+
+.posht{
+    float: left;
+}
+
+.shkrimi1{
+    font-size: 20px;
+    padding: 20px;
+}
+
+.shkrimi2{
+    font-size: 20px;
+    padding: 20px;
+}
+
+.shkrimi3{
+    font-size: 20px;
+    padding: 20px;
+}
+
+footer{
+    padding: 20px;
+    color: #FFFFFF;
+    text-align: center;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+
